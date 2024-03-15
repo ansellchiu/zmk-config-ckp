@@ -31,7 +31,7 @@
 				&trans &trans &trans &trans &trans &trans &trans &trans &kp INS &trans &kp PSCRN &kp UP &trans &sys_reset
 				&kp CLCK    &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT  &kp RIGHT   &bootloader
 				&trans &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DOWN &trans  &none &trans
-				&trans &trans  &trans              &trans                            &trans  &soft_off &rgb_ug RGB_TOG   &bl BL_TOG &none
+				&trans &trans  &trans              &trans                            &trans  &trans &rgb_ug RGB_TOG   &bl BL_TOG &none
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
