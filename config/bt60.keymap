@@ -30,7 +30,7 @@
 				&kp GRAVE &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7 &kp  F8   &kp  F9 &kp  F10  &kp F11 &kp F12   &trans &trans
 				&trans &trans &trans &trans &trans &trans &trans &trans &kp INS &trans &kp PSCRN &kp UP &trans &sys_reset
 				&kp CLCK    &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp LEFT  &kp RIGHT   &bootloader
-				&trans &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DOWN &trans  &none &trans
+				&trans &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DOWN &trans  &none &trans
 				&trans &trans  &trans              &trans                            &trans  &soft_off &rgb_ug RGB_TOG   &bl BL_TOG &none
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
